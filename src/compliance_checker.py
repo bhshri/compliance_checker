@@ -2,7 +2,7 @@ from openai import OpenAI
 from trafilatura import extract, fetch_url
 import ast
 
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = '[INSERT_OPENAI_KEY_HERE]'
 MODEL_NAME = "gpt-4-1106-preview"
 
 COMPLIANCE_POLICY_URL = "https://stripe.com/docs/treasury/marketing-treasury"
